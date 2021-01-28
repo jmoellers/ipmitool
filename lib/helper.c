@@ -896,7 +896,7 @@ ipmi_start_daemon(struct ipmi_intf *intf)
 	}
 }
 
-/* eval_ccode - evaluate return value of _ipmi_* functions and print error error
+/* eval_ccode - evaluate rerurn value of _ipmi_* functions and print error error
  * message, if conditions are met.
  *
  * @ccode - return value of _ipmi_* function.
